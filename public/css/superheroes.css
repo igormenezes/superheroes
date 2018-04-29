@@ -1,0 +1,33 @@
+.box-image{
+	display: inline-block;
+    margin: 0 5px 0 0;
+}
+
+.box-image img{
+	width: 200px; 
+	height: 200px;
+}
+
+.superheroes-thumbnail{
+	width: 200px;
+	height: 200px;
+}
+
+.box-superheroes-show{
+	margin: 0 0 10px 0;
+	border: 1px solid #d6d6d6;
+}
+
+#details-hero{
+	margin: 20px 0 0 0;
+}
+
+.box-hero h3{
+	display: inline-block;
+}
+
+.box-hero strong{
+	display: inline-block;
+	margin: 0 5px;
+}
+
