@@ -13,6 +13,7 @@ composer install
 4 - Rodar as migrations para os dois ambientes:
 
 php artisan migrate
+
 php artisan migrate --env=testing
 
 5 - Rodar a aplicação:
